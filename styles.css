@@ -40,12 +40,22 @@
     background-color: #3882F6;
 }
 
-button {
-    background-color: #3882F6;
-}
-
 .footer {
     background-color: #1F2937;
+}
+
+.cat {
+    height: 180px;
+    width: 320px;
+}
+
+.kenji {
+    height: 180px;
+    width: 180px;
+}
+
+button {
+    background-color: #3882F6;
 }
 
 ul {
