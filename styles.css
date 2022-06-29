@@ -3,6 +3,11 @@
     background-color: #1F2937;
 }
 
+.logo {
+    color: #F9FAF8;
+    font-size: 24px;
+}
+
 .links {
     display: flex;
     color: #E2E7EB;
@@ -12,6 +17,11 @@
 .containerone {
     display: flex;
     background-color: #1F2937;
+}
+
+.awesome {
+    font-size: 18px;
+    color: #E5E7EB;
 }
 
 .containertwo {
@@ -27,6 +37,27 @@
     background-color: #3882F6;
 }
 
-.button {
-    color: #3882F6;
+button {
+    background-color: #3882F6;
+}
+
+.footer {
+    background-color: #1F2937;
+}
+
+ul {
+    padding: 0;
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+h1 {
+    color: #F9FAF8;
+    font-size: 48px;
+    font-weight: bolder;
 }
