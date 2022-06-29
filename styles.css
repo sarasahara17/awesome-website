@@ -1,17 +1,16 @@
+body {
+    font-family: "Roboto", sans-serif;
+}
+
 .header {
     display: flex;
     background-color: #1F2937;
+    justify-content: space-between;
 }
 
 .logo {
     color: #F9FAF8;
     font-size: 24px;
-}
-
-.links {
-    display: flex;
-    color: #E2E7EB;
-    flex-direction: column;
 }
 
 .containerone {
@@ -61,6 +60,8 @@ button {
 ul {
     padding: 0;
     list-style-type: none;
+    color: #E2E7EB;
+    display: flex;
 }
 
 a {
