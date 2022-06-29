@@ -6,6 +6,7 @@
 .links {
     display: flex;
     color: #E2E7EB;
+    flex-direction: column;
 }
 
 .containerone {
