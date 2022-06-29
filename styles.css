@@ -28,8 +28,11 @@
     display: flex;
 }
 
-.containerfour {
+.containerthree {
     background-color: #E5E7EB;
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
 }
 
 .containerfour {
@@ -59,5 +62,11 @@ a {
 h1 {
     color: #F9FAF8;
     font-size: 48px;
+    font-weight: bolder;
+}
+
+h2 {
+    color: #1F2937;
+    font-size: 36px;
     font-weight: bolder;
 }
