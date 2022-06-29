@@ -1,13 +1,16 @@
 .header {
     display: flex;
+    background-color: #1F2937;
 }
 
 .links {
     display: flex;
+    color: #E2E7EB;
 }
 
 .containerone {
     display: flex;
+    background-color: #1F2937;
 }
 
 .containertwo {
@@ -15,5 +18,14 @@
 }
 
 .containerfour {
+    background-color: #E5E7EB;
+}
+
+.containerfour {
     display: flex;
+    background-color: #3882F6;
+}
+
+.button {
+    color: #3882F6;
 }
