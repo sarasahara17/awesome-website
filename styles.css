@@ -76,14 +76,6 @@ body {
     border-radius: 5px;
 }
 
-.containerfour button {
-    margin-right: 60px;
-    margin-top: 40px;
-    margin-bottom: 40px;
-    padding: 0;
-    border: 2px solid #F9FAF8;
-}
-
 .footer {
     background-color: #1F2937;
     padding: 20px;
@@ -117,6 +109,14 @@ button {
     padding: 4px 16px;
     font-weight: bold;
     width: 100px;
+}
+
+.containerfour button {
+    margin-right: 60px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    padding: 0;
+    border: 2px solid #F9FAF8;
 }
 
 ul {
