@@ -25,7 +25,7 @@ body {
     padding-left: 100px;
     padding-right: 100px;
     padding-bottom: 80px;
-    gap: 10px;
+    gap: 50px;
 }
 
 .awesome {
@@ -144,5 +144,5 @@ h3 {
 }
 
 p {
-    margin: 0;
+    margin: 8px 0;
 }
