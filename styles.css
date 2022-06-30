@@ -50,7 +50,7 @@ body {
 .containertwo {
     display: flex;
     justify-content: center;
-    gap: 10px;
+    gap: 30px;
     padding-left: 125px;
     padding-right: 125px;
     padding-bottom: 80px;
@@ -92,9 +92,13 @@ body {
 }
 
 .kenji img {
-    width: 100px;
+    width: 100%;
     border: 3px solid #3882F6; 
     border-radius: 5px;   
+}
+
+.text {
+    text-align: center;
 }
 
 .info {
