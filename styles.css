@@ -21,7 +21,6 @@ body {
 .containerone {
     display: flex;
     background-color: #1F2937;
-    justify-content: center;
     padding: 20px;
     padding-left: 100px;
     padding-right: 100px;
@@ -33,6 +32,15 @@ body {
     font-size: 18px;
     color: #E5E7EB;
     width: 50%;
+}
+
+.cat {
+    flex: 1 1 auto;
+    width: 50%;
+}
+
+.cat img {
+    width: 100%;
 }
 
 .containertwo {
@@ -77,10 +85,6 @@ body {
     padding: 20px;
     color: #F9FAF8;
     text-align: center;
-}
-
-.cat {
-    width: 50%;
 }
 
 .kenji {
