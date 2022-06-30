@@ -8,6 +8,9 @@ body {
     display: flex;
     background-color: #1F2937;
     justify-content: space-between;
+    padding-left: 100px;
+    padding-right: 100px;
+    align-items: center;
 }
 
 .logo {
@@ -20,10 +23,10 @@ body {
     background-color: #1F2937;
     justify-content: center;
     padding: 20px;
-    flex-wrap: wrap;
     padding-left: 100px;
     padding-right: 100px;
     padding-bottom: 80px;
+    gap: 10px;
 }
 
 .awesome {
@@ -55,6 +58,7 @@ body {
     margin: 40px 100px;
     color: #F9FAF8;
     justify-content: space-between;
+    border-radius: 5px;
 }
 
 .containerfour button {
@@ -62,6 +66,7 @@ body {
     margin-top: 40px;
     margin-bottom: 40px;
     padding: 0;
+    border: 2px solid #F9FAF8;
 }
 
 .footer {
@@ -77,7 +82,8 @@ body {
 
 .kenji {
     width: 66%;
-    border: 5px solid #3882F6;    
+    border: 3px solid #3882F6; 
+    border-radius: 5px;   
 }
 
 .info {
@@ -92,7 +98,7 @@ button {
     background-color: #3882F6;
     border: 0;
     color: #F9FAF8;
-    border: 2px solid #F9FAF8;
+    border-radius: 5px;
 }
 
 ul {
